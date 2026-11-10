@@ -207,4 +207,4 @@ Stella is offered as a full **free version** with all features and updates inclu
 Ready to dive back into the world of classic gaming? Download **Stella** now and relive the joy of the Atari 2600!
 
 ---
-**Last updated:** 2026-11-10 00:04:32 UTC
+**Last updated:** 2026-11-10 08:11:15 UTC
